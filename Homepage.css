@@ -3,7 +3,7 @@
 	flex-wrap: wrap;
 }
 
-img {
+html{
 	background: url(RTlogo.png) no-repeat center center fixed; 
 	-webkit-background-size: cover;
   -moz-background-size: cover;
